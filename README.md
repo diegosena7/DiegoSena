@@ -25,11 +25,11 @@ alt="Chatbot" width="30"/></a>
 
 
 <p align="center">
-<img height= "170em" src="https://github-readme-stats.vercel.app/api?username=DiegoSena&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97&count_private=true"/>
-<img height= "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSena&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97&hide=CSharp"/>
+<img height= "170em" src="https://github-readme-stats.vercel.app/api?username=diegosena7&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97&count_private=true"/>
+<img height= "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosena7&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97&hide=CSharp"/>
 
 
-**Social Media:**
+**Mídias Sociais:**
 
 <a href="mailto:diegosilva.sena7@gmail.com" target="_blank"><img align="left" src="https://github.com/diegosena7/DiegoSena/blob/main/images/email.png"  
 alt="email" height="25"/></a>
