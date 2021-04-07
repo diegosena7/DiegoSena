@@ -1,4 +1,4 @@
-### Olé, me chamo [Diego Sena](https://anuraghazra.github.io), estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Fullstack! 👋
+### Olá, me chamo [Diego Sena](https://anuraghazra.github.io), sou estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Fullstack! 👋
 
 Sou Desenvolvedor de Sistemas com foco em Java, JSF, Primefaces, Spring Framework, com o Front End trabalho com HTML, CSS, Bootstrap e Angular, Banco de Dados MySQL e Oracle.
 
