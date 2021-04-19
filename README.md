@@ -26,7 +26,6 @@ alt="Chatbot" width="30"/></a>
 
 <p align="center">
 <img height= "170em" src="https://github-readme-stats.vercel.app/api?username=diegosena7&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97&count_private=true"/>
-<img height= "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosena7&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97&hide=CSharp"/>
 
 
 **Mídias Sociais:**
