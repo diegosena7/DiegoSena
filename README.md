@@ -1,6 +1,6 @@
 ### Olá, me chamo [Diego Sena](https://anuraghazra.github.io), sou estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Fullstack! 👋
 
-Sou Desenvolvedor de Sistemas com foco em Java e utilizando JSF, Primefaces, Spring Framework, com o Front End utilizo HTML, CSS, Bootstrap e Angular, Banco de Dados MySQL e Oracle.
+Sou Desenvolvedor de Sistemas com foco em Java utilizando as ferramentas JSF, Primefaces, Spring Framework, com o Front End utilizo HTML, CSS, Bootstrap e Angular, Banco de Dados MySQL e Oracle.
 
 **Tecnologias:**
 
