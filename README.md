@@ -2,24 +2,6 @@
 
 Sou Desenvolvedor de Sistemas com foco em Java utilizando as ferramentas JSF, Primefaces, Spring Framework, Banco de Dados MySQL,PostgreSQL, MOngoDB, ferramentas de monitoramento e telemetria, Docker, Kubernetes e Databricks.
 
-**Tecnologias:**
-
-<a><img align="left" src="https://github.com/diegosena7/DiegoSena/blob/main/images/java.png"
-alt="Java" width="30"/></a>
-<a><img align="left" src="https://github.com/diegosena7/DiegoSena/blob/main/images/spring-1.png"
-alt="Spring" width="30"/></a>
-<a><img align="left" src="https://github.com/diegosena7/DiegoSena/blob/main/images/oracle-2.png"
-alt="Oracle" width="30"/></a>
-<a><img align="left" src="https://github.com/diegosena7/DiegoSena/blob/main/images/mysql.png"
-alt="MySQL" width="30"/></a>
-<a><img align="left" src="https://github.com/diegosena7/DiegoSena/blob/main/images/angular.png" 
-alt="Angular" width="30"/></a>
-<a><img align="left" src="https://github.com/diegosena7/DiegoSena/blob/main/images/bootstrap.png" 
-alt="Bootstrap" width="30"/></a>
-<a><img align="left" src="https://github.com/diegosena7/DiegoSena/blob/main/images/chatbot.png"
-alt="Chatbot" width="30"/></a>
-
-<br />
 <br />
 <br />
 
