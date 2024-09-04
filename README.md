@@ -1,6 +1,6 @@
 ### Olá, me chamo [Diego Sena](https://anuraghazra.github.io), Desenvolvedor com foco em Java BackEnd! 👋
 
-Sou Desenvolvedor de Sistemas com foco em Java utilizando as ferramentas JSF, Primefaces, Spring Framework, Banco de Dados MySQL,PostgreSQL, MOngoDB, ferramentas de monitoramento e telemetria, Docker, Kubernetes e Databricks.
+Sou Desenvolvedor de Sistemas com foco em Java utilizando as ferramentas JSF, Primefaces, Spring Framework, Banco de Dados MySQL, PostgreSQL, Mongo DB, ferramentas de monitoramento e telemetria como APM, Kibana e Grafana, Docker, Kubernetes e Databricks.
 
 <br />
 <br />
